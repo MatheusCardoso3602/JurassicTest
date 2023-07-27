@@ -1,0 +1,340 @@
+/* icons */
+
+#header{
+	position: relative;
+	text-align: center;
+}
+
+#trex{
+	 position: relative;
+	 top: 345px;
+	 left: 755px;
+}
+
+#bary{
+	 position: relative;
+	 top: 320px;
+	 left: 820px;
+}
+
+#raptor{
+	 position: relative;
+	  top: 295px;
+	 left: 400px;
+}
+
+#metria{
+	 position: relative;
+	 bottom: 50px;
+	 left: 687px;
+}
+
+#herre{
+	 position: relative;
+	 bottom: 185px;
+	 left: 535px;
+}
+
+#dilo{
+	 position: relative;
+	 top: 85px;
+	 left: 695px;
+}
+
+#ptera{
+	 position: relative;
+	 top: 100px;
+	 left: 570px;
+}
+
+#segi{
+	 position: relative;
+	 top: 420px;
+	 left: 590px;
+}
+
+#proce{
+	 position: relative;
+	 bottom: 30px;
+	 left: 530px;
+}
+
+#tylo{
+	 position: relative;
+	 bottom: 1010px;
+	 left: 450px;
+}
+
+#stego{
+	 position: relative;
+	 bottom: 80px;
+	 left: 515px;
+}
+
+#brach{
+	 position: relative;
+	 bottom: 115px;
+	 left: 640px;
+}
+
+#galli{
+	 position: relative;
+	 bottom: 172px;
+	 left: 631px;
+}
+
+#trike{
+	 position: relative;
+	 bottom: 865px;
+	 left: 620px;
+}
+
+#para{
+	 position: relative;
+	  bottom: 450px;
+	 left: 560px;
+}
+
+#center{
+	 position: relative;
+	 bottom: 720px;
+	 left: 330px;
+}
+
+#gate{
+	 position: relative;
+	 bottom: 950px;
+	 left: 490px;
+}
+
+#lodge{
+	 position: relative;
+	 bottom: 905px;
+	 left: 400px;
+}
+
+#heli{
+	 position: relative;
+	 bottom: 495px;
+	 left: 550px;
+}
+
+#dock{
+	 position: relative;
+	 bottom: 705px;
+	 left: 765px;
+}
+
+#legenda{
+	 position: relative;
+	 bottom: 1645px;
+	 left: 1000px;
+	 width: 5000px;
+}
+
+#arrow{
+	 position: absolute;
+	 top: 10px;
+	 left: 10px;
+}
+
+/* html backgrounds */
+
+#trex2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#bary2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#raptor2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#dilo2 {
+	background: none;
+	background-color: #6ca5da;
+}
+
+#metria2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#proce2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#herre2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#segi2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#ptera2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#tylo2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#trike2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#brach2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#galli2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#para2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#stego2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#center2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#gate2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#heli2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#lodge2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+#dock2 {
+		background: none;
+	background-color: #6ca5da;
+}
+
+body {
+	position: absolute;
+	background-image: url(../fundo/fundo3.jpg);
+	background-repeat: no-repeat;
+	background-color: #6ca5da;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+/* textos e títulos */
+
+.container{
+	position: relative;
+}
+
+.description{
+	position: relative;
+	left: 85px;
+	margin-right: 200px;
+	text-align: justify;
+}
+
+#desc{
+	position: relative;
+	bottom: 50px;
+	border: 5px solid #000000;
+	color: #FFFFFF;
+	border-radius: 10px;
+	padding-left: 15px;
+	padding-right: 0px;
+	padding-bottom: 20px;
+	width: 850px;
+	height: 150px;
+	background: #2244b3;
+	left: 31%;
+}
+
+#desc2{
+	position: relative;
+	bottom: 50px;
+	border: 5px solid #000000;
+	color: #FFFFFF;
+	border-radius: 10px;
+	padding-left: 15px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	width: 850px;
+	height: 150px;
+	background: #2244b3;
+	left: 31%;
+}
+
+#desc3{
+	position: relative;
+	bottom: 50px;
+	border: 5px solid #000000;
+	color: #FFFFFF;
+	border-radius: 10px;
+	padding-left: 15px;
+	padding-right: 0px;
+	padding-bottom: 40px;
+	width: 850px;
+	height: 150px;
+	background: #2244b3;
+	left: 31%;
+}
+
+/* fotos das espécies */
+
+.container2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 750px; /* Ajuste conforme necessário para o seu layout */
+  padding-left: 230px;
+}
+
+.container3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1000px; /* Ajuste conforme necessário para o seu layout */
+  padding-left: 200px;
+}
+
+img {
+  max-width: 80%;
+  max-height: 80%;
+}
+
+
+
+
+
+
+
+
+

@@ -1611,7 +1611,7 @@
 
 
 /* moto g8 1*/
-@media only screen and (device-width: 1560px){
+@media screen and (device-width: 1560px){
 	.container2{
 		display: flex;
 		overflow-y: hidden;
@@ -1913,7 +1913,7 @@
 }
 
 /* moto g8 2*/
-@media only screen and (device-width: 720px){
+@media screen and (device-width: 720px){
 	.container2{
 		overflow-y: hidden;
 	}
